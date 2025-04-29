@@ -9,6 +9,5 @@ A simple and elegant **React-based ToDo List** app to manage your daily tasks �
 - ✅ Add New Tasks
 - 🗑️ Delete Tasks
 - ✔️ Mark Tasks as Done
-- 🔠 Convert All Tasks to UPPERCASE
 - 🧠 Real-time Input Handling
 - 🆔 Unique IDs for Each Task
